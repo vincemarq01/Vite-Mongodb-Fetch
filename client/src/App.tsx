@@ -53,12 +53,6 @@ function App() {
         </div>
       ))}
 
-{/* <ul>
-  {data1.map((post) =>{
-
-    return <li key={post.id}> {post.title}</li>
-  })}
-</ul> */}
     </div>
     </>
   )
